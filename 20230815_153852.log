@@ -1,0 +1,126 @@
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 11 01                 -  '..'      - [SRQ] ECUReset[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 51 01 00 00 00 00 00  -  'Q......' - [PSR] ECUReset[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 03                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 03 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 27 03                 -  ''.'      - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 4    data: 67 03 1C 81 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [5]  [SF] ln: 4    data: 27 04 E3 7E           -  ''..~'    - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 67 04 00 00 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 00                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 01                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 01 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 02                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 02 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 03                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 03 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 04                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 05                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 06                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 07                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 08                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 09                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0A                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0B                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0C                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0D                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0E                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 0F                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 10                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 11                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 12                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 13                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 14                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 15                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 16                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 17                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 18                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 19                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1A                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1B                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1C                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1D                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1E                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 1F                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 20                 -  '. '      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 21                 -  '.!'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 22                 -  '."'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 23                 -  '.#'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 24                 -  '.$'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 25                 -  '.%'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 26                 -  '.&'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 27                 -  '.''      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 28                 -  '.('      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 29                 -  '.)'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2A                 -  '.*'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2B                 -  '.+'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2C                 -  '.,'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2D                 -  '.-'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2E                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 2F                 -  './'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 30                 -  '.0'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 31                 -  '.1'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 32                 -  '.2'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 33                 -  '.3'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 34                 -  '.4'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 35                 -  '.5'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 36                 -  '.6'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 37                 -  '.7'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 38                 -  '.8'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 39                 -  '.9'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 3A                 -  '.:'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 10 12 00 00 00 00  -  '.......' - [NRC] sub-functionNotSupported[0m

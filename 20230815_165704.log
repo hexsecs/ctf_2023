@@ -1,0 +1,32 @@
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 11 01                 -  '..'      - [SRQ] ECUReset[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 51 01 00 00 00 00 00  -  'Q......' - [PSR] ECUReset[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 03                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 03 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 27 03                 -  ''.'      - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 4    data: 67 03 60 4A 00 00 00  -  'g.`J...' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [5]  [SF] ln: 4    data: 27 04 9F B5           -  ''...'    - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 67 04 00 00 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [7]  [SF] ln: 7    data: 23 14 00 01 A0 80     -  '#.....'  - [SRQ] ReadMemoryByAddress[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 23 13 00 00 00 00  -  '.#.....' - [NRC] incorrectMessageLengthOrInvalidFormat[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 11 01                 -  '..'      - [SRQ] ECUReset[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 51 01 00 00 00 00 00  -  'Q......' - [PSR] ECUReset[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 03                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 03 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 27 03                 -  ''.'      - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 4    data: 67 03 A8 B1 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [5]  [SF] ln: 4    data: 27 04 57 4E           -  ''.WN'    - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 67 04 00 00 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [8]  [SF] ln: 7    data: 23 14 00 01 A0 00 80  -  '#......' - [SRQ] ReadMemoryByAddress[0m
+[34m vcan0  7E8  [8]  [SF] ln: 3    data: 7F 23 33 00 00 00 00  -  '.#3....' - [NRC] securityAccessDenied[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 11 01                 -  '..'      - [SRQ] ECUReset[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 51 01 00 00 00 00 00  -  'Q......' - [PSR] ECUReset[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 03                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 03 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 27 03                 -  ''.'      - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 4    data: 67 03 91 2D 00 00 00  -  'g..-...' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [5]  [SF] ln: 4    data: 27 04 6E D2           -  ''.n.'    - [SRQ] SecurityAccess[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 67 04 00 00 00 00 00  -  'g......' - [PSR] SecurityAccess[0m
+[31m vcan0  7E0  [3]  [SF] ln: 2    data: 10 02                 -  '..'      - [SRQ] DiagnosticSessionControl[0m
+[34m vcan0  7E8  [8]  [SF] ln: 2    data: 50 02 00 00 00 00 00  -  'P......' - [PSR] DiagnosticSessionControl[0m
+[31m vcan0  7E0  [8]  [SF] ln: 7    data: 23 14 00 01 A0 00 80  -  '#......' - [SRQ] ReadMemoryByAddress[0m
+[34m vcan0  7E8  [8]  [FF] ln: 129  data: 63 42 48 53 4D 20     -  'cBHSM '  - [PSR] ReadMemoryByAddress[0m
